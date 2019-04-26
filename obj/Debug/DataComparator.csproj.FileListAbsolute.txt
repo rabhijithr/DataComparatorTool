@@ -1,0 +1,5 @@
+C:\Abhi\Data_Comp_Code\DataComparator\obj\Debug\DataComparator.csprojAssemblyReference.cache
+C:\Abhi\Data_Comp_Code\DataComparator\obj\Debug\MainWindow.g.cs
+C:\Abhi\Data_Comp_Code\DataComparator\obj\Debug\App.g.cs
+C:\Abhi\Data_Comp_Code\DataComparator\obj\Debug\SampleApp_MarkupCompile.cache
+C:\Abhi\Data_Comp_Code\DataComparator\obj\Debug\SampleApp_MarkupCompile.lref
